@@ -1,0 +1,7 @@
+
+
+licensePlateGame = LicensePlateGame()
+licensePlateGame.showHelp()
+
+
+
